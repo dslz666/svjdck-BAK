@@ -5,6 +5,8 @@
 3、程序仅更新被禁用的ck  
 4、脚本需要青龙应用权限——环境变量跟脚本管理  
 
+https://github.com/zzhjj/svjdck/tree/main
+
   
 # windows使用说明
 运行exe即可，无需安装依赖等  
